@@ -1,0 +1,9 @@
+.vscode
+SDL
+clean.sh
+cmake_install.cmake
+CMakeFiles
+CMakeCache*
+game
+mac.sh
+Makefile
